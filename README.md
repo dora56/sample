@@ -6,3 +6,4 @@ This is a sumple.
 feature-A add
 feature-B add
 コンクリフト
+コンクリフト1
