@@ -7,4 +7,4 @@ feature-A add
 feature-B add
 コンクリフト
 コンクリフト1
-feature-C add
+featura-C add
